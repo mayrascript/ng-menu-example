@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Preview
 
-![Preview Image](https://github.com/mayrarodriguez1709/ng-menu-example/tree/master/src/assets/images/menu-example.png)
+![Preview Image](https://github.com/mayrarodriguez1709/ng-menu-example/blob/master/src/assets/images/menu-example.png)
 
 
 ## Development server
